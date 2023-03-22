@@ -5,4 +5,4 @@ This repository contains public documents related to BF4DB and it's operations. 
 These documents will be automatically pushed to our website (when the new site is complete) once an update has been made.
 
 ## Contributing To These Documents
-If there is an error or issue in one of these documents then please feel free to open a GitHub issue or pull request to have to document reviewed or update.
+If there is an error or issue in one of these documents then please feel free to open a GitHub issue or pull request to have the document reviewed or update.
