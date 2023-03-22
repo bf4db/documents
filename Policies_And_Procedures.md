@@ -1,5 +1,5 @@
 # BF4DB Policies And Procedures
-## Version 1.5 - MARCH 15, 2022
+## Version 1.6 - MARCH 22, 2023
 
 ### Changelog:
 - **1.0 - 11/04/2020** - Initial document.
@@ -13,6 +13,8 @@
 - **1.4 - 07/10/2021** - Numerous policy tweaks and grammar fixes.
 
 - **1.5 - 03/15/2022** - Added bans for graphics or rendering hacks and editors. Grammar fixes.
+
+- **1.6 - 03/22/2023** - Updated ban policy on glitches.
 
 ### Mission Statement
 
@@ -34,7 +36,7 @@ IPv4 and IPv6 connection logs are kept for operational security reasons and cann
 
 ### Conduct Policy
 
-BF4DB has a strict conduct policy that is used across all platforms of communication that is owned and/or moderated by BF4DB, not including game servers running our plugin. Players utilizing our various platforms are required to adhere to this policy, or moderation actions will be enforced. For example, if someone on the website violates this policy, action may be taken as laid out in the “Website Bans” section. Similarly, violations on our Discord server will be moderated as laid out in the “Discord Bans” section.
+BF4DB has a strict conduct policy that is used across all platforms of communication that is owned and/or moderated by BF4DB, not including game servers running our plugin. Players utilizing our various platforms are required to adhere to this policy, or moderation actions will be enforced. For example, if someone on the website violates this policy, action may be taken as laid out in the "Website Bans" section. Similarly, violations on our Discord server will be moderated as laid out in the "Discord Bans" section.
 
 In short, the following is prohibited:
 
@@ -81,7 +83,7 @@ BF4DB uses several different positions to identify Staff and their access to our
 
 - **Translators**: Translators are responsible for the translation of reports, appeals, posts, and anything else needed. Translators do not hold banning privileges. Translators report to the Administrators.
 
-Prior to onboarding new staff, regardless of position, an extensive and thorough background check is completed. New staff are also required to read and accept the terms of their position, including the confidentiality mentioned in the “Commitment to Data Privacy” section.
+Prior to onboarding new staff, regardless of position, an extensive and thorough background check is completed. New staff are also required to read and accept the terms of their position, including the confidentiality mentioned in the "Commitment to Data Privacy" section.
 
 Staff members work on a volunteer basis and receive no compensation for their services, monetary or otherwise.
 
@@ -103,7 +105,7 @@ Apart from servers explicitly advertised as being owned and operated by BF4DB, B
 
 - Playing on servers that have whitelisted the player in question.
 
-Purchasing a new account may result in a Linked Account ban. Please see “Linked Accounts”.
+Purchasing a new account may result in a Linked Account ban. Please see "Linked Accounts".
 
 The plugin allows for two-way data transfer between the server and our service. Player data that is available through Procon including EA_GUID, PB_GUID, Soldier Name, IPv4, and connection date/time are streamed to our service. Additional player data including (but not limited to) weapon and vehicle statistics are streamed from Battlelog. The plugin fetches the player state (unbanned or banned and reason) and sends that back to the server. If the player is banned, a kick is initiated against the player.
 
@@ -127,9 +129,12 @@ In addition to the above, bans will also be issued for the following:
 
 - FairFight resets.
 
-- Game breaking glitches that give the player an unfair advantage. These can be appealed once.
+- Game breaking glitches that give the player an unfair advantage (including, but not limited to, giving yourself or your vehicles invisibility or no-clipping). These can be appealed once.
 
-- Map glitching deemed “game breaking”. These can be appealed once.
+- Map glitching deemed "game breaking" (including, but not limited to, areas that make part of you or your equipment invincible). These can be appealed once.
+
+- Other glitches that aren't "game breaking" (including, but not limited to, normally unreachable areas) but are abused by the player will result in a glitch flag that server owners have the option to kick for. These can be appealed once.
+
 - Illegal weapons/kits. These can be appealed once if it can be determined the appealing player was not the one who spawned the weapon.
 
 - Gameplay enhancers such as crosshair overlays (when used on Hardcore) or other hardware/software designed to give players an unfair advantage (including, but not limited to, ASUS Sonic Radar). This does not include cheats or hacks. These can be appealed once.
@@ -181,7 +186,7 @@ The staff member responsible for issuing a ban may not handle that accounts’ a
 
 If an appeal is denied, the appeal may be escalated by submitting a new appeal and indicating the desire to have it escalated. Escalated appeals are handled by the Directors exclusively. If a Director was involved in the original ban or appeal, that Director will be excluded from the escalated appeal. Once an escalated appeal has been closed, there are no other avenues of appeal available.
 
-During the course of an appeal, if an account is determined to have been compromised and used to cheat during that time, we will mark that account as a “Hacked Account”, and will not ban any new accounts purchased by the user. However, due to the fact that the original account was used to cheat with, the ban will remain.
+During the course of an appeal, if an account is determined to have been compromised and used to cheat during that time, we will mark that account as a "Hacked Account", and will not ban any new accounts purchased by the user. However, due to the fact that the original account was used to cheat with, the ban will remain.
 
 During the course of an appeal, if an account is determined to have been compromised but not used to cheat during that time, the appeal will be approved as long as it can be proven that Two Factor Authentication (2FA) has been activated and there are no other indications of cheat use on the account.
 
