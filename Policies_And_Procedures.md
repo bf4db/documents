@@ -16,6 +16,8 @@
 
 - **1.6 - 03/22/2023** - Updated ban policy on glitches.
 
+- **1.7 - 11/21/2023** - Clarified glitch bans.
+
 ### Mission Statement
 
 BF4DB’s mission is to provide a fair and impartial anti-cheat service dedicated to the identification and removal of hackers and cheaters from Battlefield 4 servers utilizing our Procon plugin.
@@ -131,9 +133,9 @@ In addition to the above, bans will also be issued for the following:
 
 - Game breaking glitches that give the player an unfair advantage (including, but not limited to, giving yourself or your vehicles invisibility or no-clipping). These can be appealed once.
 
-- Map glitching deemed "game breaking" (including, but not limited to, areas that make part of you or your equipment invincible). These can be appealed once.
+- Map glitching deemed "game breaking" (including, but not limited to, areas that make part of you or your equipment invincible and cannot be countered unless also using the glitch). These can be appealed once.
 
-- Other glitches that aren't "game breaking" (including, but not limited to, normally unreachable areas) but are abused by the player will result in a glitch flag that server owners have the option to kick for. These can be appealed once.
+- Other glitches that aren't "game breaking" (including, but not limited to, normally unreachable areas) but are abused by the player will result in a glitch flag that server owners have the option to kick for. The glitch flag is usually reserved for repeat offenders, but can be added in cases of extreme abuse. These can be appealed once.
 
 - Illegal weapons/kits. These can be appealed once if it can be determined the appealing player was not the one who spawned the weapon.
 
